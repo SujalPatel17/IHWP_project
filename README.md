@@ -51,13 +51,16 @@ Prakriti is your unique body-mind constitution in Ayurveda, determined by the ba
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop View](screenshots/desktop.png)
+![Desktop View](   <img width="1899" height="921" alt="image" src="https://github.com/user-attachments/assets/0a4f8901-79f8-4ec8-99bb-89c551d7c635" />
+)
 
 ### Mobile View
-![Mobile View](screenshots/mobile.png)
+![Mobile View](<img width="319" height="710" alt="image" src="https://github.com/user-attachments/assets/1b1d94b1-ca42-4d67-a9d6-6bb37f64773e" />
+)
 
 ### Results Page
-![Results](screenshots/results.png)
+![Results](<img width="910" height="916" alt="image" src="https://github.com/user-attachments/assets/2c61205d-775c-40f9-b24e-f513150f6436" />
+)
 
 ## 🚀 Installation
 
